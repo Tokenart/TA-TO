@@ -1,0 +1,62 @@
+TA-TO Tokenart Licence 
+
+About our Licences
+
+​
+
+Directly inspired by the Creative Common project developed by the lawyer Lawrence Lessig, Tokenart brings a new legal standard to offer the creative world the possibilities allowed by the blockchain. It strikes a balance between the traditional "all rights reserved" framework resulting from copyright laws and opensource laws like Creative Commons promoting the free circulation of creations. It helps creators to protect and monetize their creations in all the 177 states signatory to the Bern Convention.
+
+​
+
+Tokenart gives everyone, from individual creators to large corporations and public institutions, simple and standardized ways to represent copyright permissions on NFTs related to creations.
+
+​
+
+Concept and basis of our NFT LICENCES
+
+​
+
+Tokenart's NFT Licences standards are based on the logic of representative Titles such as the maritime bill of lading. A title represents rights to something. For the maritime bill of lading, the title - namely the bill of lading - represents a right in a tangible thing - a merchandise. For the NFTR standards, the title - namely the NFT - represents a right to an intangible thing - a creation.
+
+ 
+ 
+
+In practice, the creator fills out a questionnaire when he chooses to tokenize a work. First of all, he identifies himself and identifies his work.
+
+​
+
+Then he specifies if he wants to create
+
+a traditional NFT, a digital NFT which does not represent his copyright
+
+a physical NFT, an NFT linked to one of his physical works but which does not represent his copyright
+
+a copyright NFT, an NFT linked to one or more of its copyrights
+
+a Token NFT, A NFT linked to tokens.
+
+If he chooses the traditional NFT then the standard will allow him to create one or more NFTs linked to the hash of his work in digital format published via IPFS. If he encounters a copyright issue or if another NFT created on the same digital file as his digital work, the Tokencop will be able to transfer ownership of this infringing NFT to him. He can choose to either destroy it or sell it as well.
+
+If he chooses the Physical NFT then the standard will allow him to create one or more NFTs linked to one or more physical media of his work, the photo of which will be hosted on IPFS and the physical characteristics in the metadata of the NFT. He therefore agrees to send his physical work when purchasing the NFT. If a problem is encountered is that a person would have purchased the physical work without having purchased the NFT then the tokencop may reassign ownership of the NFT to him.
+
+If he chooses the legal NFT then the standard will allow him to create one or more NFTs linked to one or more intellectual property rights in a work. If it turns out that one of the owners does not respect the rights requested by the original creator then the tokencop can withdraw his NFT.
+
+If he chooses the Token NFT, the standard allow him to create a NFT linked to one or more tokens hosted on one or more blockchains
+
+
+Link for the website :
+
+https://www.tokenart.org/copy-of-wrap-nft 
+
+
+
+Proof of concept
+
+Link for the transaction to the custodian tezos address :
+
+https://tzkt.io/onrF9e6FrU78LXwCW4L26j57cFT6ixq2weN6mLwVEX1xykCQBrp
+
+Link for the  NFT Tezos description : 
+
+https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/93146577784668714140459221259964172865612003863722902766963240020681877880833
+
