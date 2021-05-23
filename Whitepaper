@@ -50,7 +50,13 @@ If he chooses the Token NFT, the standard allow him to create a NFT linked to on
 About TA-TO licence:
 
 a Token NFT, A NFT linked to tokens.
-If he chooses the Token NFT, the standard allow him to create a NFT linked to one or more tokens hosted on one or more blockchains
+If the user chooses the Token NFT, the standard allow him to create a NFT linked to one or more tokens hosted on one or more blockchains
+First of all the wrap represent the amount of tokens backed by the NFT but most important, the wrap has a value himself. It become a collection NFT Token. 
+
+This allow him to :
+
+- Having token value from one chain represented on another chain where the NFT is represented. 
+- Having a NFT representing his artwork + a bunch of tokens
 
 
 Link for the website :
